@@ -31,8 +31,7 @@ In each time step (an action taken):
 # Run  
 training:  
 python train.py  
-  
+![image](https://github.com/bruce9797a/DDPG-on-Lunar-Lander/blob/master/reward_history.JPG)  
 testing:  
 python test.py  
-
-
+![image](https://github.com/bruce9797a/DDPG-on-Lunar-Lander/blob/master/result.gif)
