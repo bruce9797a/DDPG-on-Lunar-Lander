@@ -3,7 +3,7 @@
 # DDPG
 pytorch implementation of Deep deterministic policy gradient
 
-# about Lunar-Lander-v2(Continuous)
+# About Lunar-Lander-v2(Continuous)
 State space  
 state[0] : horizontal coordinate  
 state[1] : vertical coordinate  
